@@ -1,0 +1,16 @@
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7128889&newsearch=true&queryText=Domain%20specific%20language
+
+Published in:
+Research Challenges in Information Science (RCIS), 2015 IEEE 9th International Conference on
+Date of Conference:
+13-15 May 2015
+Page(s):
+286 - 297
+INSPEC Accession Number:
+15222874
+Conference Location :
+Athens
+DOI:
+10.1109/RCIS.2015.7128889
+Publisher:
+IEEE

@@ -1,0 +1,18 @@
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6079314&queryText=code%20generator&ranges=2008_2016_Year&searchField=Search_All
+
+Published in:
+Open Systems (ICOS), 2011 IEEE Conference on
+Date of Conference:
+25-28 Sept. 2011
+Page(s):
+225 - 230
+Print ISBN:
+978-1-61284-931-7
+INSPEC Accession Number:
+12361324
+Conference Location :
+Langkawi
+DOI:
+10.1109/ICOS.2011.6079314
+Publisher:
+IEEE

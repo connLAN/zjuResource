@@ -1,0 +1,32 @@
+http://d.g.wanfangdata.com.cn/Periodical_szjsyyy201111158.aspx
+
+
+作者 ： 
+陈玲    夏汛  
+
+作者单位 ： 
+泸州职业技术学院,四川泸州,646005  
+
+刊 名： 
+数字技术与应用     
+
+Journal： 
+Digital Technology & Application  
+
+年，卷(期) ： 
+2011, (11)  
+
+分类号 ： 
+TP313  
+
+关键词： 
+Mybatis 知识脉络    动态SQL 知识脉络    分页 知识脉络    物理分页 知识脉络     
+
+Keywords： 
+Mybatis dynamic SQL paging physical page     
+
+机标分类号 ： 
+TP3 TN9  
+
+在线出版日期 ： 
+2012年4月21日  

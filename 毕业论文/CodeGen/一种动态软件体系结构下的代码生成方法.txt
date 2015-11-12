@@ -1,0 +1,34 @@
+http://d.g.wanfangdata.com.cn/Periodical_xxwxjsjxt201303016.aspx]
+
+
+作者 ： 
+范玥[1]    王淑玲[2]  
+
+Author： 
+FAN Yue[1]    WANG Shu-ling[2]  
+
+作者单位 ： 
+中国科学院沈阳计算技术研究所研究生部,沈阳110168;中国科学院大学,北京100049
+中国科学院沈阳计算技术研究所研究生部,沈阳,110168
+ 
+
+刊 名： 
+小型微型计算机系统   ISTICPKU  
+
+Journal： 
+Journal of Chinese Computer Systems  
+
+年，卷(期) ： 
+2013, 34(3)  
+
+分类号 ： 
+TP311  
+
+关键词： 
+ 代码生成 知识脉络    动态系统 知识脉络    模板 知识脉络    开发框架 知识脉络     
+
+机标分类号 ： 
+TP3 TP1  
+
+在线出版日期 ： 
+2013年6月7日  

@@ -1,0 +1,17 @@
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6805007&queryText=Mybatis&newsearch=true
+
+
+Published in:
+Computational Intelligence and Design (ISCID), 2013 Sixth International Symposium on  (Volume:1 )
+Date of Conference:
+28-29 Oct. 2013
+Page(s):
+350 - 353
+INSPEC Accession Number:
+14256108
+Conference Location :
+Hangzhou
+DOI:
+10.1109/ISCID.2013.94
+Publisher:
+IEEE

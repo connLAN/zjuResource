@@ -1,0 +1,37 @@
+http://d.g.wanfangdata.com.cn/Periodical_hlyzhkz2013z1028.aspx
+
+
+作者 ： 
+贺军[1]    焦荣[2]  
+
+Author： 
+HE Jun[1]    JIAO Rong[2]  
+
+作者单位 ： 
+北方自动控制技术研究所,太原,030006
+北京汉林信通信息技术有限公司,北京,100085
+ 
+
+刊 名： 
+火力与指挥控制   ISTICPKU  
+
+Journal： 
+Fire Control & Command Control  
+
+年，卷(期) ： 
+2013, (z1)  
+
+分类号 ： 
+TP393  
+
+关键词： 
+ 数据持久层 知识脉络    MyBatis 知识脉络     XML 知识脉络     Sql Session Factory 知识脉络     
+
+Keywords： 
+data persistence     MyBatis     XML     SqlSessionFactory     
+
+机标分类号 ： 
+P5 TP3  
+
+在线出版日期 ： 
+2014年2月16日  
