@@ -1,0 +1,12 @@
+http://d.g.wanfangdata.com.cn/Periodical_jsjgcyyy200204009.aspx
+
+作者 ：	 孙宏伟     张树生     周竞涛     王静
+作者单位 ：	西北工业大学CAD/CAM国家专业实验室,西安,710072
+刊 名：	计算机工程与应用   ISTICPKU
+Journal：	COMPUTER ENGINEERING AND APPLICATIONS
+年，卷(期) ：	2002, 38(4)
+分类号 ：	TP391
+关键词：	XML模型驱动数据库双向映像数据交换  知识脉络   
+机标分类号 ：	TP3 TP2
+在线出版日期 ：	2004年1月8日
+基金项目 ：	国家高技术研究发展计划(863计划)

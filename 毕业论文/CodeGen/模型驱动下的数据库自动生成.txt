@@ -1,0 +1,12 @@
+http://d.g.wanfangdata.com.cn/Periodical_wjfz201108044.aspx
+
+作者 ：	 王海林
+Author：	WANG Hai-lin
+作者单位 ：	山西财经大学信息管理学院,山西太原030006;奥塔哥大学信息科学系,奥塔哥但尼丁9054
+刊 名：	计算机技术与发展   ISTIC
+Journal：	Computer Technology and Development
+年，卷(期) ：	2011, 21(8)
+分类号 ：	TP311
+关键词：	模型驱动  知识脉络    MetaEdit+  知识脉络    元建模  知识脉络    代码生成  知识脉络    数据库生成  知识脉络   
+机标分类号 ：	TP3 C93
+在线出版日期 ：	2011年12月23日
