@@ -1,0 +1,20 @@
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7203797&queryText=code%20generator&ranges=2008_2016_Year&searchField=Search_All
+
+Published in:
+Computer Arithmetic (ARITH), 2015 IEEE 22nd Symposium on
+Date of Conference:
+22-24 June 2015
+Page(s):
+66 - 73
+ISSN :
+1063-6889
+Print ISBN:
+978-1-4799-8663-7
+INSPEC Accession Number:
+15399602
+Conference Location :
+Lyon
+DOI:
+10.1109/ARITH.2015.22
+Publisher:
+IEEE

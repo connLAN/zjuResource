@@ -1,0 +1,35 @@
+http://d.g.wanfangdata.com.cn/Periodical_ztsfgdzkxxxb201205009.aspx
+
+
+作者 ： 
+姜娜    孔浩    张子锋  
+
+作者单位 ： 
+昭通学院计算机科学系,云南昭通,657000  
+
+刊 名： 
+昭通师范高等专科学校学报     
+
+Journal： 
+Journal of Zhaotong Teacher's College  
+
+年，卷(期) ： 
+2012, 34(5)  
+
+分类号 ： 
+TP312  
+
+关键词： 
+ 持久化层 知识脉络    MyBatis 知识脉络    高校业务系统 知识脉络    J2EE 知识脉络     
+
+Keywords： 
+sustained layer     MyBatis     University' s Management System     J2EE     
+
+机标分类号 ： 
+TP3 TN9  
+
+在线出版日期 ： 
+2012年12月21日  
+
+基金项目 ： 
+基金项目:云南省教育厅研基金项目 

@@ -1,0 +1,16 @@
+校园卡：427839  统一身份认证密码：mK6lHp
+
+
+
+基于DSL的Mybatis自适应代码生成工具的研究与实现
+
+
+1.DSL
+2.Mybatis
+3.code generator
+4.(数据)模型驱动 MDD MDA
+
+
+Mybatis 内存分页-》物理分页 http://duanhengbin.iteye.com/blog/1998017
+
+MyBatis与Spring Framework和Google Guice集成，这使开发者免于依赖性问题。

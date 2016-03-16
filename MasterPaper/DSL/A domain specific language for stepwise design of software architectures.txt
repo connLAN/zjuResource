@@ -1,0 +1,14 @@
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7018449&queryText=Domain%20specific%20language&ranges=2008_2016_Year&pageNumber=5&searchField=Search_All
+
+Published in:
+Model-Driven Engineering and Software Development (MODELSWARD), 2014 2nd International Conference on
+Date of Conference:
+7-9 Jan. 2014
+Page(s):
+67 - 78
+Print ISBN:
+978-9-8975-8065-9
+Conference Location :
+Lisbon, Portugal
+Publisher:
+IEEE

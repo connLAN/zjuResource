@@ -1,0 +1,19 @@
+http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6729768&newsearch=true&queryText=Domain%20specific%20language
+
+
+Published in:
+High Capacity Optical Networks and Enabling Technologies (HONET-CNS), 2013 10th International Conference on
+Date of Conference:
+11-13 Dec. 2013
+Page(s):
+116 - 120
+Print ISBN:
+978-1-4799-2568-1
+INSPEC Accession Number:
+14064889
+Conference Location :
+Magosa
+DOI:
+10.1109/HONET.2013.6729768
+Publisher:
+IEEE
